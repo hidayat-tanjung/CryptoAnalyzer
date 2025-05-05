@@ -4,27 +4,26 @@
 
 A powerful cryptocurrency analysis toolkit with real-time monitoring, technical indicators, and beautiful visualizations.
 
-# 🚀 Key Features
 # 📊 Real-Time Market Dashboard
 ![Screenshot (6)](https://github.com/user-attachments/assets/92c26ab5-d4a2-4af7-8323-8e980d4cb1d0)
 
-Live price updates every 30-60 seconds
-Interactive candlestick charts
-Customizable watchlists
+1. Live price updates every 30-60 seconds
+2. Interactive candlestick charts
+3. Customizable watchlists
 
 # 🔍 Coin Analysis
 
-Historical price data (1D to 90D)
-Technical indicators (RSI, MACD, Bollinger Bands)
-Moving averages (7/30/50 period)
+1. Historical price data (1D to 90D)
+2. Technical indicators (RSI, MACD, Bollinger Bands)
+3. Moving averages (7/30/50 period)
 
 # 📈 Portfolio Tracker
 
-Value tracking across exchanges
-Profit/loss calculations
-Allocation breakdowns
+1. Value tracking across exchanges
+2. Profit/loss calculations
+3. Allocation breakdowns
 
-🛠 Installation
+# 🛠 Installation
 ```console
 # Clone the repository
 git clone https://github.com/yourusername/crypto-analyzer-pro.git
